@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1682555687 source:c:\users\lerry\onedrive\Área de trabalho\trabalholabaed\fonte.c
+	"matematica.h"
+	<stdlib.h>
+	<stdio.h>
+
+1682555689 c:\users\lerry\onedrive\Área de trabalho\trabalholabaed\matematica.h
+
+1682555844 source:c:\users\lerry\onedrive\Área de trabalho\trabalholabaed\trabalholabaed.c
+	<stdio.h>
+	"matematica.h"
+
